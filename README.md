@@ -1,2 +1,2 @@
-#4 Crear ramas Soy Didi siguiendo indicaciones del taller
+#7 modificando la primera línea del archivo "Aparicion de conflictos al realizar merge"
 Por lo cual, me han pedido redactar 2 oraciones para las pruebas
